@@ -4,7 +4,8 @@
 const std::vector<std::string> g_str = {
     "hello",
     "afganistan",
-    "bananistan"
+    "bananistan",
+    GIT_HASH
 };
 
 const std::string& get_random_string()
