@@ -8,7 +8,8 @@ const std::vector<std::string> g_str = {
     GIT_HASH
 };
 
+
 const std::string& get_random_string()
 {
-    return g_str[1];
+    return g_str[2];
 }
